@@ -1,0 +1,3 @@
+# SpringbootElasticSearch
+根据springboot整合ES搜索引擎，后面会一点一点整合RabbitMQ，kafka等消息中间件
+多用于学习参考
